@@ -1,8 +1,8 @@
-##git-homework-module-01
+**git-homework-module-01**
 Homework Module was given out on 5.11.23
 Homework Modeule is dued on 5.18.23
 
-##Task:
+**Task:**
 **GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -26,9 +26,8 @@ THEN I find a concise, descriptive title**
     Style control so that each itemized style would be directly follow the context in question. Formatted content from left to right.
 
 ## Checklist on Grading Criteria:
-
-
 $$
+
 Technical Acceptance Criteria: 40%
     Satisfies all of the preceding acceptance criteria plus the following code improvements:
         Application's links all function correctly.
