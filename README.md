@@ -25,9 +25,10 @@ THEN I find a concise, descriptive title**
 4. Fourth item was house keeping css styles
     Style control so that each itemized style would be directly follow the context in question. Formatted content from left to right.
 
-Checklist on Grading Criteria:
-$$
+## Checklist on Grading Criteria:
 
+
+$$
 Technical Acceptance Criteria: 40%
     Satisfies all of the preceding acceptance criteria plus the following code improvements:
         Application's links all function correctly.
@@ -42,7 +43,8 @@ Technical Acceptance Criteria: 40%
 
     Application Quality: 15%
         Application resembles (at least 90%) screenshots provided in challenge instructions.
-        Repository Quality: 13%
+
+    Repository Quality: 13%
         Repository has a unique name.
         Repository follows best practices for file structure and naming conventions.
         Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
